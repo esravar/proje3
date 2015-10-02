@@ -18,6 +18,7 @@ String name;
 	Student(){
 	     name ="";
 	     age = 0;
+	     1=1;
 	     isJunior = false;
 	     gender = 'm';
 	}
